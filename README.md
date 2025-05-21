@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cityboy1778
+- 👋 Hi, I’m @Oluwapelimi
 - 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ... web development
 - 💞️ I’m looking to collaborate on ... projects
