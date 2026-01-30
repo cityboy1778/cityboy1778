@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Oluwapelimi
-- 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... web development
+- 👀 I’m interested in ... Fullstack development
+- 🌱 I’m currently learning ... Cyber Security
 - 💞️ I’m looking to collaborate on ... projects
 - 📫 How to reach me ... @pelumikilla@gmail.com
-- 😄 Pronouns: ... he
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... He
+
 
 <!---
 cityboy1778/cityboy1778 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
